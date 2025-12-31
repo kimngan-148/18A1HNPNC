@@ -1,0 +1,3 @@
+symbol,open,close,high,low,parsed_time
+AAPL,100,110,115,95,2020-01-01
+GOOG,200,190,210,180,2020-01-02
